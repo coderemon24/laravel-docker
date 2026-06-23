@@ -16,7 +16,7 @@ You can clone this repo and install your Laravel project inside the `main-app` f
 ---
 
 ## 📁 Project Structure
-
+```
 laravel-docker/
 │
 ├── main-app/ # Your Laravel project goes here
@@ -25,7 +25,7 @@ laravel-docker/
 ├── Dockerfile
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Requirements
